@@ -6,7 +6,7 @@ This repository contains a few of my Excel projects.
 
 This project features a dynamic, interactive sales dashboard created in Excel to model the sales performance of a fictional coffee company. The dashboard provides a comprehensive view of key sales metrics, allowing users to explore data across various dimensions and time periods.
 
-
+<img src="images/CoffeeSalesDashboard.png" alt="Wavelet Analysis" width="50%">
 
 ### Key Features:
 - **Data Modeling:** The underlying data is modeled to allow for detailed analysis, including comparisons across products, regions, and sales periods.
