@@ -2,7 +2,7 @@
 
 This repository contains a few of my Excel projects.
 
-# Coffee Company Sales Dashboard
+## Coffee Company Sales Dashboard
 
 This project features a dynamic, interactive sales dashboard created in Excel to model the sales performance of a fictional coffee company. The dashboard provides a comprehensive view of key sales metrics, allowing users to explore data across various dimensions and time periods.
 
