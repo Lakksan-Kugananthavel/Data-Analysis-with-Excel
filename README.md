@@ -13,4 +13,4 @@ This project features a dynamic, interactive sales dashboard created in Excel to
 - **Interactive Visuals:** The dashboard includes interactive charts and graphs that update based on user selections, providing insights into sales trends, product performance, and regional distribution.
 - **Advanced Excel Functions:** Utilized powerful Excel functions such as **Pivot tables**, **XLOOKUP**, and dynamic arrays to create a responsive and user-friendly interface.
 
-The dashboard serves as an example of how Excel's advanced features can be leveraged to create effective data visualizations and analysis tools for business use.
+The dashboard serves as an example of how Excel's advanced features can be leveraged to create effective data visualizations and analysis tools for business use. Note that this was a guided project, but all work was done independently.
